@@ -62,3 +62,13 @@ button{
     color: #fff;
   background-color:#333 ;
 }
+article {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  article:hover {
+    transform: scale(1.03);
+  }
